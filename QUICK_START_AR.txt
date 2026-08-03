@@ -1,0 +1,24 @@
+المشروع أصبح كاملًا وجاهزًا للرفع.
+
+للرفع على GitHub:
+1) فكّي ضغط الملف.
+2) افتحي مجلد laravel_project_day4.
+3) اضغطي مرتين على UPLOAD_TO_GITHUB.bat.
+4) سجّلي الدخول إلى GitHub لو طلب منك.
+
+لتشغيل المشروع أول مرة:
+1) تأكدي أن PHP وComposer مثبتان.
+2) اضغطي مرتين على SETUP_PROJECT.bat.
+3) بعد نجاح الإعداد، اضغطي START_PROJECT.bat.
+
+حساب الأدمن:
+admin@example.com
+password
+
+حساب المستخدم:
+user@example.com
+password
+
+مهم:
+لا تضعي مفتاح OpenAI داخل GitHub.
+ضعيه محليًا فقط داخل ملف .env أمام OPENAI_API_KEY.
